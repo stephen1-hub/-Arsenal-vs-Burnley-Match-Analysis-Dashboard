@@ -1,0 +1,38 @@
+# 📁 Project Structure
+
+```plaintext
+arsenal-vs-burnley-dashboard/
+│
+├── data/
+│   ├── raw/
+│   │   └── arsenal_burnley_shots.csv
+│   │
+│   └── processed/
+│       └── cleaned_match_data.csv
+│
+├── assets/
+│   ├── dashboard_preview.png
+│   ├── arsenal_logo.png
+│   └── burnley_logo.png
+│
+├── notebooks/
+│   ├── exploratory_analysis.ipynb
+│   └── tactical_insights.ipynb
+│
+├── app/
+│   ├── app.py
+│   ├── utils.py
+│   ├── charts.py
+│   └── pitch_plots.py
+│
+├── visualizations/
+│   ├── shot_map.png
+│   ├── heatmap.png
+│   ├── xg_breakdown.png
+│   └── player_xg_chart.png
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
