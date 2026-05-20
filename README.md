@@ -55,7 +55,8 @@ This dashboard was designed to simulate how a modern football data analyst commu
 ✅ Tactical insights section
 ✅ Team and player filters
 
----
+---<img width="1590" height="759" alt="image" src="https://github.com/user-attachments/assets/10394442-68bd-427b-8f93-7cfe45c2cb30" />
+
 
 # 🧠 Tactical Analysis Summary
 
